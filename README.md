@@ -10,6 +10,7 @@ The stdin data consists of two fundamental properties; `variables` and `node`
 
 ## node
 `<%= node['default']['here_i_am'] %>` will be replaced with the value in:
+
     {
         "node": {
             "default": {
@@ -21,6 +22,7 @@ The stdin data consists of two fundamental properties; `variables` and `node`
 
 ## variables
 `<%= @imaVar %>` will be replaced with the value in:
+
     {
         "variables": {
             "imaVar": "yes you are!"

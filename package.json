@@ -1,0 +1,26 @@
+{
+  "name": "nerb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "msjs": "1.0.5"
+  },
+  "bin": {
+    "nerb": "bin/run"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterhel/node-erb-renderer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/peterhel/node-erb-renderer/issues"
+  },
+  "homepage": "https://github.com/peterhel/node-erb-renderer#readme",
+  "description": ""
+}
